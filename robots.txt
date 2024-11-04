@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itoroihu.github.io/NyD/sitemap_index.txt
+Sitemap: https://itoroihu.github.io/mkd/sitemap_index.txt
+Sitemap: https://itoroihu.github.io/qEy/sitemap_index.txt
+Sitemap: https://itoroihu.github.io/qxF/sitemap_index.txt
